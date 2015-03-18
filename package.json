@@ -1,6 +1,6 @@
 {
   "name": "expando-core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Instant data snippets",
   "main": "./lib/expando.js",
   "scripts": {
